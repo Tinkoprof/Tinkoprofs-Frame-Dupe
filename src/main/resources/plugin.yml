@@ -1,0 +1,3 @@
+name: ItemFrameDupe
+version: '${project.version}'
+main: halq.itemframedupe.Main
